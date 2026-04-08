@@ -1,0 +1,71 @@
+3ª série B
+Versionamento de códigos & Modelagem de dados
+Lista de Exercícios
+SQL + Git + GitHub
+Instruções:
+Numa folha de caderno, coloque seu nome e copie, à mão (caneta), 10 questões com as respectivas respostas. Você poderá usá-los na prova.
+SQL (1–10)
+1. O que faz o comando CREATE DATABASE?
+Resposta: Cria um banco de dados.
+________________________________________
+2. Para que serve o comando USE nome_do_banco?
+Resposta: Seleciona o banco de dados a ser usado.
+________________________________________
+3. Qual comando é usado para criar uma tabela?
+Resposta: CREATE TABLE
+________________________________________
+4. O que significa PRIMARY KEY?
+Resposta: Identificador único de cada registro.
+________________________________________
+5. Qual comando insere dados em uma tabela?
+Resposta: INSERT INTO
+________________________________________
+6. Qual comando consulta dados?
+Resposta: SELECT
+________________________________________
+7. Como selecionar todos os dados de uma tabela?
+Resposta: SELECT * FROM tabela;
+________________________________________
+8. Qual comando altera dados existentes?
+Resposta: UPDATE
+________________________________________
+9. Qual comando remove dados?
+Resposta: DELETE
+________________________________________
+10. Para que serve o tipo VARCHAR?
+Resposta: Armazenar texto -> tudo será considerado texto.
+________________________________________
+Git (11–15)
+11. O que é o Git?
+Resposta: Sistema de controle de versão.
+________________________________________
+12. Qual comando inicia um repositório local?
+Resposta: git init
+________________________________________
+13. Qual comando adiciona arquivos para commit?
+Resposta: git add
+________________________________________
+14. O que faz o comando git commit?
+Resposta: Salva alterações no histórico.
+________________________________________
+15. Qual comando envia alterações para o repositório remoto?
+Resposta: git push
+________________________________________
+
+
+GitHub (16–20)
+16. O que é o GitHub?
+Resposta: Plataforma para hospedar repositórios Git.
+________________________________________
+17. O que é um repositório?
+Resposta: Local onde o código é armazenado.
+________________________________________
+18. O que significa “clonar” um repositório?
+Resposta: Copiar o projeto para o computador.
+________________________________________
+19. Qual comando é usado para clonar um repositório?
+Resposta: git clone
+________________________________________
+20. Para que serve o arquivo README.md?
+Resposta: Documentar o projeto.
+
