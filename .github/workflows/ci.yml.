@@ -1,0 +1,14 @@
+YAML
+name: CI-Aula-Pratica   # Nome do seu workflow
+on: [push]              # O gatilho: roda a cada push de código
+
+jobs:
+  verificacao-inicial:
+    runs-on: ubuntu-latest # A máquina virtual que executará o
+processo
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v4 # Passo para o robô "puxar" seu
+código
+      - name: Simular Teste
+        run: echo "Executando testes automatizados..."
